@@ -2,8 +2,47 @@
 
 body{
 
- background-color:rgb(218, 130, 145);           
+ background-color: #37A0AD;          
 }
+.faiza{
+    width: 100px;
+    color: white;
+}
+.R{
+    text-decoration: underline solid black;
+    color: white;
+}
+.O{
+    text-decoration: underline solid black;
+    color: white;
+}
+.E{
+    text-decoration: underline solid black;
+    color: white;
+}
+.B{
+    color: white;
+    text-decoration: underline solid black;
+}
+.P{
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+.L{
+    color: white;
+}
+.d{
+    color: white;
+}
+.T{
+    color: white;
+}
+
+
+
+
 
 
 
