@@ -1,56 +1,14 @@
-
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
-
- background-color: #37A0AD;          
+    font-family: 'Open Sans', sans-serif;
 }
-.faiza{
-    width: 100px;
-    color: white;
+header{
+    height: 100px;
+    background: #541554;
+    display: flex;
+    justify-content: space-between;
 }
-.R{
-    text-decoration: underline solid black;
-    color: white;
-}
-.O{
-    text-decoration: underline solid black;
-    color: white;
-}
-.E{
-    text-decoration: underline solid black;
-    color: white;
-}
-.B{
-    color: white;
-    text-decoration: underline solid black;
-}
-.P{
-    border: 2px solid black;
-    border-radius: 20px;
-    text-align: center;
-    color: white;
-}
-.L{
-    color: white;
-}
-.d{
-    color: white;
-}
-.T{
-    color: white;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
